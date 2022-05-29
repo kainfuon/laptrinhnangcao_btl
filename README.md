@@ -5,4 +5,5 @@ Lưu ý:
   - Nếu thuyền va chạm với cá, đáy biển hay khung trên thì bạn sẽ thua.
   - Nếu bạn để trôi mất 1 bông hoa, thuyền của bạn sẽ to lên đấy.
   - Ngoài ra mỗi khi ăn được 50 điểm, tốc độ của hoa, cá và thuyền đều sẽ tăng lên.
+
 Chúc các bạn chơi game vui vẻ.
