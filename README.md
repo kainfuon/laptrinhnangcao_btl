@@ -1,2 +1,2 @@
 # laptrinhnangcao_btl
-game sieu don gian kkkk
+Một game siêu đơn giản do mình tự viết
