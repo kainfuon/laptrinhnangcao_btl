@@ -7,3 +7,5 @@ Lưu ý:
   - Ngoài ra mỗi khi ăn được 50 điểm, tốc độ của hoa, cá và thuyền đều sẽ tăng lên.
 
 Chúc các bạn chơi game vui vẻ.
+
+Link demo: https://drive.google.com/file/d/1USBceEAOawjjr25F_gygEOboansssNxU/view?usp=sharing
